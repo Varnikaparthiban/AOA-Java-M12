@@ -1,5 +1,7 @@
 
 # EX 2E Pattern Matching using Manacher's Algorithm.
+## DATE: 30.04.26
+
 ## AIM:
 To write a Java program for the following constraints.
 Longest Palindromic Substring
